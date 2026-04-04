@@ -4,6 +4,8 @@ head{
 }
 
 body{
+    background-color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2em;
+    color: #39ff14;
 }
